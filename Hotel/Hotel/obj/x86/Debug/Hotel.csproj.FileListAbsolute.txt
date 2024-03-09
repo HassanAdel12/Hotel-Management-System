@@ -1,0 +1,13 @@
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.csproj.AssemblyReference.cache
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.BookingForm.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.CategoriesForm.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.CustomersForm.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.Form_Login.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.Layout.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.ManageRooms.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.Properties.Resources.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.Report.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.StartingForm.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.User_Form.resources
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.csproj.GenerateResource.cache
+F:\ITI_full stack 2023\Project C# and LINQ\Hotel\Hotel\obj\x86\Debug\Hotel.csproj.CoreCompileInputs.cache
